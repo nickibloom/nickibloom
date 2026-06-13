@@ -23,11 +23,12 @@ I like making data useful and building systems that don't fall apart. I'm also a
 
 ## 🔭 What I'm Up To
 
+| | |
 |---|---|
 | 🤖 | **CodePath** - Applications of AI Engineering, Summer 2026 |
 | 👓 | **Snap Lens Academy** - AR Development Scholar, Summer 2026 |
 | 🏫 | **The Knowledge House** - Data Analytics Innovation Fellow *(Feb 2026 - Present)* |
-| 💼 | **Handshake AI** - AI Analyst, evaluating and validating LLM outputs *(Nov 2025 – Present)* |
+| 💼 | **Handshake AI** - AI Analyst, evaluating and validating LLM outputs *(Nov 2025 - Present)* |
 
 ---
 
