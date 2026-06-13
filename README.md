@@ -48,13 +48,13 @@ I like making data useful and building systems that don't fall apart. I'm also a
 
 **Data & AI**
 
-[![My Skills](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres&theme=dark)](https://skillicons.dev) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 > SQL · Tableau · APIs · AI Engineering · LLM Evaluation · Prompt Engineering
 
 **Spatial Computing & AR**
 
-![Snap Lens Studio](https://img.shields.io/badge/Snap%20Lens%20Studio-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black)
+![Snap Lens Studio](https://img.shields.io/badge/Snap%20Lens%20Studio-FFFC00?style=for-the-badge&logo=snapchat&logoColor=black) [![My Skills](https://skillicons.dev/icons?i=blender&theme=dark)](https://skillicons.dev)
 
 > Snap Lens Studio · AR Development · Spatial UX · Blender
 
