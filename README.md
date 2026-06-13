@@ -11,27 +11,30 @@
 
 </div>
 
-<div align="right">
-  <img src="./assets/b8d02272-1177-11ee-8172-3712845f90cf.gif" alt="banner" width="100%"/>
-</div>
 ---
 
 ## 🌱 About Me
 
+<img align="right" src="./assets/b8d02272-1177-11ee-8172-3712845f90cf.gif" alt="banner" width="25%"/> <br> <p align="left">
+<p>
 I'm a Data Analyst and AI/AR developer based in Newark, NJ. I started out analyzing election data at Rutgers, built Tableau dashboards for 70+ stakeholders at Verizon, and now I evaluate AI model outputs to catch where the models go wrong.
 
-I like making data useful and building systems that don't fall apart. I'm also a **Snap Lens Academy Scholar (Summer 2026)** getting into AR development because I think spatial computing is where data storytelling is headed, and I'd rather be building there early. Alongside that, I'm deepening my AI engineering skills through **CodePath's Applications of AI Engineering (Summer 2026)**.
+I like making data useful and building systems that don't fall apart. I'm also a **Snap Lens Academy Scholar (Summer 2026)** getting into AR development because I think spatial computing is where data storytelling is headed, and I'd rather be building there early. Alongside that, I'm deepening my AI engineering skills through **CodePath's Applications of AI Engineering (Summer 2026)**. 
+</p>
+<br clear="left" />
 
 ---
-
 ## 🔭 What I'm Up To
+
 
 | | |
 |---|---|
-| 🤖 | **CodePath** - Applications of AI Engineering, Summer 2026 |
+| 🤖 | **CodePath** - Applications of AI Engineering, Summer 2026 |  
 | 👓 | **Snap Lens Academy** - AR Development Scholar, Summer 2026 |
 | 🏫 | **The Knowledge House** - Data Analytics Innovation Fellow *(Feb 2026 - Present)* |
-| 💼 | **Handshake AI** - AI Analyst, evaluating and validating LLM outputs *(Nov 2025 - Present)* |
+| 💼 | **Handshake AI** - AI Analyst, evaluating and validating LLM outputs *(Nov 2025 - Present)* |                                                                                      
+| | |
+
 
 ---
 
@@ -100,18 +103,6 @@ Working at the crossover of data and spatial computing. A few things I'm pulling
 - 🔗 **End-to-end AI pipelines** - from raw ingestion to something a person can actually interact with
 
 Open to roles in **Data Analytics, Data Engineering, AI Engineering, and AR/Spatial Computing**, especially where those areas overlap.
-
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-![Niekelle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Niekelle&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Niekelle&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
