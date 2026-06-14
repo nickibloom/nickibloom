@@ -18,7 +18,7 @@
 
 ## 🌱 About Me
 
-<img align="right" src="./assets/b8d02272-1177-11ee-8172-3712845f90cf.gif" alt="banner" width="25%"/> <br> <p align="left">
+<img align="right" src="./assets/hello_nieko_tp.png" alt="banner" width="35%"/> <br> <p align="left">
 <p>
 I'm a Data Analyst and AI/AR developer based in Newark, NJ. I started out analyzing election data at Rutgers, built Tableau dashboards for 70+ stakeholders at Verizon, and now I evaluate AI model outputs to catch where the models go wrong.
 
